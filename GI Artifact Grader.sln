@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GI Artifact Grader", "gi-artifact-grader\GI Artifact Grader.csproj", "{2D624A11-19D2-4ED1-A42D-9F48DAB0E115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D624A11-19D2-4ED1-A42D-9F48DAB0E115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D624A11-19D2-4ED1-A42D-9F48DAB0E115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D624A11-19D2-4ED1-A42D-9F48DAB0E115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D624A11-19D2-4ED1-A42D-9F48DAB0E115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4239DF8-65E4-48DE-9CE8-0CDCE85C0861}
+	EndGlobalSection
+EndGlobal
